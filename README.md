@@ -9,8 +9,4 @@ Follow the instructions in the file Configuracoes_do_Backup.txt to be able to se
 
 If you have any questions, please contact us.
 
-:: ###################################
-:: Autor: Luziney Arbid Luz
-:: Empresa: Arbidsofts Ltda
-:: Contato: suporte@arbidsofts.net
-:: ###################################
+suporte@arbidsofts.net
